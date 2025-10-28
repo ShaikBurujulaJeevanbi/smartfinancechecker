@@ -1,0 +1,67 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual environment
+.venv/
+venv/
+ENV/
+env/
+
+# Django stuff
+*.log
+staticfiles/
+db.sqlite3
+media/
+
+# Environment variables and secrets
+.env
+.env.local
+.env.production
+.env.staging
+secrets.json
+config.json
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# Production settings
+production_settings.py
+local_settings.py
+
+# IDE/editor
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# macOS
+.DS_Store
+
+
